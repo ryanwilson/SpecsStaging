@@ -1,6 +1,6 @@
 {
   "name": "leveldb-library",
-  "version": "1.22",
+  "version": "1.23",
   "license": "New BSD",
   "summary": "A fast key-value storage library",
   "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
